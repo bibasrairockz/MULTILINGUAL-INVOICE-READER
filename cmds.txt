@@ -5,5 +5,9 @@ conda create -p env python==3.10 -y
 conda activate ./env  
 cls
 
+pip install requirements.txt  
+//get api google studio key//  
+//write app.py//  
+streamlit run app.py  
 
 
